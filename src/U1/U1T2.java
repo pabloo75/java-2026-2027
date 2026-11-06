@@ -1,6 +1,6 @@
-package U1;
+/*package U1;
 
-/*import java.util.Scanner;
+import java.util.Scanner;
 
 
 public class U1T2 {

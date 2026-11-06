@@ -1,11 +1,11 @@
-package U1;/*
+/*package U1;
 import java.util.Scanner ;
-public class U1T4 {
+public class  {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
 
 
-    /* 1)   System.out.println("Escribe un numero ");
+/* 1)   System.out.println("Escribe un numero ");
         int numero = kb.nextInt();
         if (numero < 0){
             System.out.println(numero);

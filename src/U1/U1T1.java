@@ -1,7 +1,7 @@
 /*package U1;
 
 public class U1T1 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {*
      /*   Scanner kb = new Scanner(System.in);
      /* 7  int edad = kb.nextInt();
         if ( edad >= 18){
